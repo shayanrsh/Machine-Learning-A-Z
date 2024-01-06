@@ -1,5 +1,5 @@
-![](https://github.com/shayanrsh/Machine-Learning-A-Z/blob/main/ML_ReadME.gif)
 # Machine Learning Course 🧠
+![](https://github.com/shayanrsh/Machine-Learning-A-Z/blob/main/ML_ReadME.gif)
 This repo contains my code and work for the [Machine Learning course](https://www.udemy.com/course/machinelearning/) on Udemy, taught by Kirill Eremenko and Hadelin de Ponteves. The course covers the theory and practice of various machine learning techniques, such as regression, classification, clustering, natural language processing, deep learning, and reinforcement learning. The course also teaches how to use Python and R to implement machine learning algorithms and projects.
 
 ## What I'm learning 📚
